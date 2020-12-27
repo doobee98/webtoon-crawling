@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './model/crawling/NaverCrawler';
 
 function App() {
   return (
